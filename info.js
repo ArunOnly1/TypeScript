@@ -21,3 +21,7 @@
 // *Singleton classes and private Constructor
 // Only one object can be created from singleton class
 // private constructor and static method is used to implement singleton class
+
+// *interface
+// class le interface implement garesi interface bhitra ko sabai properties implement garna parxa
+// class le child lai force garnu paryo kunai method implement garna bhane abstract use garna parxa
